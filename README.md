@@ -29,15 +29,7 @@ Pour tester le projet :
 3. Compilez et exécutez `Main.java` pour insérer et récupérer des données.
 
 
-
-
-
-https://github.com/user-attachments/assets/c01aebb0-5635-45d5-a44d-2aea7c05d041
-
-
-
-
-
+[lachgar_edit_0.webm](https://github.com/user-attachments/assets/aedd0afe-d75b-4e90-8589-bfd0472ae046)
 
 
 ## Auteurs
